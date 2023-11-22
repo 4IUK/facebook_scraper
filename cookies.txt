@@ -1,0 +1,9 @@
+{
+    "sb":"dSVIZYReowYDLpE0Bb-qEE4C",
+    "datr":"dSVIZSXyBxhy7dvT33b6ZXLN",
+    "wd":"1842x1082",
+    "dpr":"1.34375",
+    "c_user":"61553485310656",
+    "xs":"31%3AX2ADrsPn3MspIg%3A2%3A1700656190%3A-1%3A-1",
+    "fr":"14EYPzc5RZGICaHOj.AWVJAuVsxY5Pv3mtakc_rr1tc-g.BlXfOH.N1.AAA.0.0.BlXfQ_.AWVtXbBN1BQ"
+}
